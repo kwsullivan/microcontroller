@@ -1,0 +1,19 @@
+/home/ksullivan/micro/build/core/esp32-hal-periman.c.o: \
+ /home/ksullivan/.arduino15/packages/esp32/hardware/esp32/3.2.1/cores/esp32/esp32-hal-periman.c \
+ /home/ksullivan/.arduino15/packages/esp32/hardware/esp32/3.2.1/cores/esp32/esp32-hal-log.h \
+ /home/ksullivan/.arduino15/packages/esp32/tools/esp32-arduino-libs/idf-release_v5.4-858a988d-v1/esp32/qio_qspi/include/sdkconfig.h \
+ /home/ksullivan/.arduino15/packages/esp32/tools/esp32-arduino-libs/idf-release_v5.4-858a988d-v1/esp32/include/esp_timer/include/esp_timer.h \
+ /home/ksullivan/.arduino15/packages/esp32/tools/esp32-arduino-libs/idf-release_v5.4-858a988d-v1/esp32/include/esp_common/include/esp_err.h \
+ /home/ksullivan/.arduino15/packages/esp32/tools/esp32-arduino-libs/idf-release_v5.4-858a988d-v1/esp32/include/esp_common/include/esp_compiler.h \
+ /home/ksullivan/.arduino15/packages/esp32/tools/esp32-arduino-libs/idf-release_v5.4-858a988d-v1/esp32/include/esp_hw_support/include/esp_etm.h \
+ /home/ksullivan/.arduino15/packages/esp32/tools/esp32-arduino-libs/idf-release_v5.4-858a988d-v1/esp32/include/esp_rom/esp32/include/esp32/rom/ets_sys.h \
+ /home/ksullivan/.arduino15/packages/esp32/tools/esp32-arduino-libs/idf-release_v5.4-858a988d-v1/esp32/include/log/include/esp_log.h \
+ /home/ksullivan/.arduino15/packages/esp32/tools/esp32-arduino-libs/idf-release_v5.4-858a988d-v1/esp32/include/esp_rom/include/esp_rom_sys.h \
+ /home/ksullivan/.arduino15/packages/esp32/tools/esp32-arduino-libs/idf-release_v5.4-858a988d-v1/esp32/include/soc/esp32/include/soc/reset_reasons.h \
+ /home/ksullivan/.arduino15/packages/esp32/tools/esp32-arduino-libs/idf-release_v5.4-858a988d-v1/esp32/include/log/include/esp_log_level.h \
+ /home/ksullivan/.arduino15/packages/esp32/tools/esp32-arduino-libs/idf-release_v5.4-858a988d-v1/esp32/include/log/include/esp_log_color.h \
+ /home/ksullivan/.arduino15/packages/esp32/tools/esp32-arduino-libs/idf-release_v5.4-858a988d-v1/esp32/include/log/include/esp_log_buffer.h \
+ /home/ksullivan/.arduino15/packages/esp32/tools/esp32-arduino-libs/idf-release_v5.4-858a988d-v1/esp32/include/log/include/esp_log_timestamp.h \
+ /home/ksullivan/.arduino15/packages/esp32/hardware/esp32/3.2.1/cores/esp32/esp32-hal-periman.h \
+ /home/ksullivan/.arduino15/packages/esp32/tools/esp32-arduino-libs/idf-release_v5.4-858a988d-v1/esp32/include/soc/esp32/include/soc/soc_caps.h \
+ /home/ksullivan/.arduino15/packages/esp32/tools/esp32-arduino-libs/idf-release_v5.4-858a988d-v1/esp32/include/esp_common/include/esp_bit_defs.h

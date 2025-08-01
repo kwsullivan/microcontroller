@@ -1,0 +1,17 @@
+[
+  {
+    "Sourcefile": null,
+    "Include": "",
+    "Includepath": "/home/ksullivan/.arduino15/packages/esp32/hardware/esp32/3.2.1/cores/esp32"
+  },
+  {
+    "Sourcefile": null,
+    "Include": "",
+    "Includepath": "/home/ksullivan/.arduino15/packages/esp32/hardware/esp32/3.2.1/variants/esp32"
+  },
+  {
+    "Sourcefile": "/home/ksullivan/micro/build/sketch/sketch.ino.cpp",
+    "Include": "",
+    "Includepath": null
+  }
+]
